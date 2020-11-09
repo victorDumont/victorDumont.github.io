@@ -56,7 +56,7 @@ The above copyright notice and this permission notice shall be included in all c
         <ul class="navbar-nav">
           <li class="nav-item">
             <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://www.wowprogress.com/guild/eu/ysondre/Quichons" target="_blank">
-              <img src="./assets/img/wowicon.png" class="wowprogress" ></i>
+              <img src="./assets/img/wowicon.png" class="wowprogress"></i>
               <p class="d-lg-none">Wowprogress</p>
             </a>
           </li>
@@ -70,16 +70,10 @@ The above copyright notice and this permission notice shall be included in all c
     <div class="content-center">
       <div class="container">
         <div class="title-brand">
-          <img src="./assets/img/quichonsPoulette.png" alt="">
+          <img src="./assets/img/V1.png" alt="" class="center">
           <!-- <h1 class="presentation-title">Quichons</h1> -->
-          <div class="fog-low">
-            <img src="./assets/img/fog-low.png" alt="">
-          </div>
-          <div class="fog-low right">
-            <img src="./assets/img/fog-low.png" alt="">
-          </div>
         </div>
-        <h2 class="presentation-subtitle text-center"> De bons joueurs matures. Chaque mot compte. </h2>
+        <!--<h2 class="presentation-subtitle text-center"> De bons joueurs matures. Chaque mot compte. </h2>-->
       </div>
     </div>
     <div class="moving-clouds" style="background-image: url('./assets/img/clouds.png'); "></div>
